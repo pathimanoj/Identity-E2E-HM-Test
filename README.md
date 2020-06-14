@@ -21,6 +21,8 @@ This test will fail due to the mismatch of the data between input and output fil
 
 Test will run for all 4 registration numbers and the output can be see clearly on console which clearly states, which test passed or failed.
 
+![image](https://user-images.githubusercontent.com/7795253/84601258-b9838680-ae76-11ea-8920-5e49c921c8c0.png)
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
